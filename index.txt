@@ -1,8 +1,13 @@
 1. aaaaaaa
     1.1 1111111111	master	master2	master3
 2. bbbbbbb
+<<<<<<< HEAD
     2.1 1111111111	
     2.2 2222222222
+=======
+    2.1 1111111111
+    2.2 2222222222	theory
+>>>>>>> theory
 3. ccccccc
     3.1 1111111111
 4. ddddddd
